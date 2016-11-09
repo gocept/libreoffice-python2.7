@@ -15,4 +15,3 @@ ADD startoo.sh /opt/libreoffice/startoo.sh
 VOLUME ["/tmp"]
 RUN chmod +x /opt/libreoffice/startoo.sh
 
-ENTRYPOINT ["/opt/libreoffice/startoo.sh"]
