@@ -1,5 +1,5 @@
 FROM python:2.7
-MAINTAINER florent.aide@gmail.com
+MAINTAINER mh@gocept.com
 
 ENV DEBIAN_FRONTEND noninteractive
 # version 1:4.2.8-0ubuntu2
