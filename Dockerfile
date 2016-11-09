@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM python:2.7
 MAINTAINER florent.aide@gmail.com
 
 ENV DEBIAN_FRONTEND noninteractive
